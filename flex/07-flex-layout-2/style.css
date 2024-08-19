@@ -28,6 +28,7 @@ body {
 
 .body {
   display: flex;
+  flex: 1;
 }
 
 .sidebar {
